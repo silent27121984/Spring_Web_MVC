@@ -1,8 +1,4 @@
-GET http://localhost:8080/api/posts
-
-###
-
-POST http://localhost:8080/api/posts
+POST http://localhost:9999/api/posts
 Content-Type: application/json
 
 {
